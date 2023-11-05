@@ -23,7 +23,7 @@ int coin_count(vector<int>& coins, int n, int amount){
 
 //2nd approach
 //Dp approach(Tabulation)
-//
+//Tc - O(N^2), Sc - O(n)
 int coin_count(vector<int>& coins, int n, int amount){
     intdp[amount + 1];
     dp[0] = 0;
