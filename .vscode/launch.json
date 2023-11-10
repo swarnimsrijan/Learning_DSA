@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/1142s/OneDrive/Documents/GitHub/Learn_DSA/Strings/Problems/Medium",
+      "program": "c:/Users/1142s/OneDrive/Documents/GitHub/Learn_DSA/Strings/Problems/Medium/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
