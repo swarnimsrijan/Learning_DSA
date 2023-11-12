@@ -1,7 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
 //Recursive approach
+//O(2^n)
 // int nCrmodp(int n, int r, int p){
 //     if(r == 0 || r == n) return 1;
 //     if(n == 0) return 0; 
