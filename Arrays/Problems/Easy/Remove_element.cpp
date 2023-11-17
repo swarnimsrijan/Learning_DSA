@@ -12,6 +12,7 @@ int removeElement(vector<int>& nums, int val) {
             index++;
         }
     }
+
     return index;
 }
 
