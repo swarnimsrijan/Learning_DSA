@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/1142s/OneDrive/Documents/GitHub/Learn_DSA/Backtracking/Easy",
-      "program": "c:/Users/1142s/OneDrive/Documents/GitHub/Learn_DSA/Backtracking/Easy/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
