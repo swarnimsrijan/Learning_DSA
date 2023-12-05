@@ -18,6 +18,7 @@ public:
     }
 };
 class Solution {
+    
 public:
     bool canPlaceFlowers(vector<int>& flowerbed, int n) {
         flowerbed.insert(flowerbed.begin(), 0);
